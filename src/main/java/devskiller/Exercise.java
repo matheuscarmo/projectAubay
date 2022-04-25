@@ -1,5 +1,5 @@
 package devskiller;
-
+//teste
 import java.util.HashMap;
 
 public class Exercise {
