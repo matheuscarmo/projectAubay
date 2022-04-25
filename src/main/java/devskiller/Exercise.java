@@ -3,7 +3,7 @@ package devskiller;
 import java.util.HashMap;
 
 public class Exercise {
-    public void findFirstRepeatedWords(String paragratph) {
+    public void findFirstRepeatedWords(String paragraph) {
         // TODO - Your code goes here, within this method.
         int n = paragraph.length();
         if (n == 0 ){
